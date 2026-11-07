@@ -4,8 +4,8 @@ I am a Quality Assurance Engineer in training at TripleTen Tech Academy; my work
 
 My background focuses on the design, execution, and documentation of software tests, identifying defects and contributing to the development of reliable, functional, and high-quality digital products. 
 
-'
 
+'
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  **| KEY FACTORS THAT INFLUENCE MY LEARNING IN THE FIELD OF SOFTWARE & APPS QUALITY ASSURANCE |** 
 
 - 🔍 Training in functional, exploratory, and regression testing.
@@ -15,8 +15,8 @@ My background focuses on the design, execution, and documentation of software te
 - 🐞 Bug management, documentation, and tracking using Jira.
 - 💻 Proficiency with Git and GitHub for version control.
 
-'
 
+'
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  **| ABOUT ME |**     
 
 I'm passionate about technology, lifelong learning, problem-solving, and innovation. I believe that software quality isn't just about finding bugs, but about building better digital experiences..
@@ -30,4 +30,15 @@ Also
 '
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  **| TECHNICAL SKILLS |** 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+<p><img align="left" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+![JWT](https://img.shields.io/badge/json%20web%20tokens-%23000000.svg?style=for-the-badge&logo=jSON&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Dev.to blog](https://img.shields.io/badge/dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
+![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+
