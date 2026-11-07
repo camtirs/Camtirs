@@ -3,7 +3,7 @@
 
 
 
-I am a Quality Assurance engineer in training at TripleTen Tech Academy; my work focuses on ensuring the quality, reliability, and functionality of applications through testing methodologies and technological tools.My professional goal is to develop my skills as a QA engineer, strengthen my knowledge of test automation, and transition into software engineering.
+I am a Quality Assurance Engineer in training at TripleTen Tech Academy; my work focuses on ensuring the quality, reliability, and functionality of applications through testing methodologies and technological tools.My professional goal is to develop my skills as a QA engineer, strengthen my knowledge of test automation, and transition into software engineering.
 
 My background focuses on the design, execution, and documentation of software tests, identifying defects and contributing to the development of reliable, functional, and high-quality digital products.  
 
@@ -19,7 +19,7 @@ My background focuses on the design, execution, and documentation of software te
 - 🐞 Bug management, documentation, and tracking using Jira.
 - 💻 Proficiency with Git and GitHub for version control.
 
-> ***About Me***
+> ***ABOUT ME***
 
 Apasionado por la tecnología, el aprendizaje continuo, la resolución de problemas y la innovación. Creo que la calidad del software no es solamente encontrar errores, sino construir mejores experiencias digitales.
 
