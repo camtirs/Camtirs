@@ -6,6 +6,9 @@ My background focuses on the design, execution, and documentation of software te
 
 '
 
+
+'
+
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  **| KEY FACTORS THAT INFLUENCE MY LEARNING IN THE FIELD OF SOFTWARE & APPS QUALITY ASSURANCE |** 
 
 - 🔍 Training in functional, exploratory, and regression testing.
@@ -18,6 +21,7 @@ My background focuses on the design, execution, and documentation of software te
 
 '
 
+'
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  **| ABOUT ME |**     
 
 I'm passionate about technology, lifelong learning, problem-solving, and innovation. I believe that software quality isn't just about finding bugs, but about building better digital experiences..
@@ -27,6 +31,8 @@ Also
 - 🌱 I’m currently learning React Dev.
 - 📊🤖 Interest in software development, cybersecurity, digital projects, and artificial intelligence.
 
+
+'
 
 '
 
