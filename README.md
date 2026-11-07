@@ -17,6 +17,7 @@ My background focuses on the design, execution, and documentation of software te
 
 
 '
+
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  **| ABOUT ME |**     
 
 I'm passionate about technology, lifelong learning, problem-solving, and innovation. I believe that software quality isn't just about finding bugs, but about building better digital experiences..
