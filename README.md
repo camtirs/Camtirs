@@ -10,7 +10,7 @@ My background focuses on the design, execution, and documentation of software te
 #
 
 
-> ***KEY FACTORS THAT INFLUENCE MY LEARNING IN THE FIELD OF QUALITY ASSURANCE***
+> **KEY FACTORS THAT INFLUENCE MY LEARNING IN THE FIELD OF SOFTWARE & APPS QUALITY ASSURANCE. **
 
 - 🔍 Training in functional, exploratory, and regression testing.
 - 🧪 Academic experience in designing and executing test cases.
@@ -19,7 +19,7 @@ My background focuses on the design, execution, and documentation of software te
 - 🐞 Bug management, documentation, and tracking using Jira.
 - 💻 Proficiency with Git and GitHub for version control.
 
-> ***ABOUT ME***
+> **ABOUT ME**
 
 I'm passionate about technology, lifelong learning, problem-solving, and innovation. I believe that software quality isn't just about finding bugs, but about building better digital experiences..
 
