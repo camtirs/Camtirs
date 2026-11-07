@@ -1,37 +1,33 @@
-<h1 align="center">Hello!,  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Camilo Tiuzo </h1>  
-
-
-
+<h1 align="center">Hello!, I'm  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="44">  Camilo Tiuzo </h1> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 I am a Quality Assurance Engineer in training at TripleTen Tech Academy; my work focuses on ensuring the quality, reliability, and functionality of applications through testing methodologies and technological tools.My professional goal is to develop my skills as a QA engineer, strengthen my knowledge of test automation, and transition into software engineering.
 
-My background focuses on the design, execution, and documentation of software tests, identifying defects and contributing to the development of reliable, functional, and high-quality digital products.  
+My background focuses on the design, execution, and documentation of software tests, identifying defects and contributing to the development of reliable, functional, and high-quality digital products. 
 
--
+'
 
-
-> **KEY FACTORS THAT INFLUENCE MY LEARNING IN THE FIELD OF SOFTWARE & APPS QUALITY ASSURANCE.**
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  **| KEY FACTORS THAT INFLUENCE MY LEARNING IN THE FIELD OF SOFTWARE & APPS QUALITY ASSURANCE |** 
 
 - 🔍 Training in functional, exploratory, and regression testing.
-- 🧪 Academic experience in designing and executing test cases.
+  - 🧪 Academic experience in designing and executing test cases.
 - 🔌 API testing using Postman.
 - 🐍 Test automation with Python, Selenium, and Pytest.
 - 🐞 Bug management, documentation, and tracking using Jira.
 - 💻 Proficiency with Git and GitHub for version control.
 
-  #
+'
 
-> **ABOUT ME**
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  **| ABOUT ME |**     
 
 I'm passionate about technology, lifelong learning, problem-solving, and innovation. I believe that software quality isn't just about finding bugs, but about building better digital experiences..
 
 Also
 
 - 🌱 I’m currently learning React Dev.
-- 📊 Interest in software development, cybersecurity, digital projects, and artificial intelligence.
-
-#
+- 📊🤖 Interest in software development, cybersecurity, digital projects, and artificial intelligence.
 
 
->**TECHNICAL SKILLS** 
+'
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  **| TECHNICAL SKILLS |** 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
