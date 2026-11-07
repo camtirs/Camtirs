@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white***Portfolio***) ***Portfolio***
+<img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>***Portfolio***
 <h1 align="center">Hello!, I'm  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="44">  Camilo Tiuzo </h1> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 I am a Quality Assurance Engineer in training at TripleTen Tech Academy; my work focuses on ensuring the quality, reliability, and functionality of applications through testing methodologies and technological tools.My professional goal is to develop my skills as a QA engineer, strengthen my knowledge of test automation, and transition into software engineering.
@@ -8,7 +8,7 @@ My background focuses on the design, execution, and documentation of software te
 '
 
 
-'
+
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  **|  KEY FACTORS THAT INFLUENCE MY LEARNING IN THE FIELD OF SOFTWARE & APPS QUALITY ASSURANCE |** 
 
@@ -22,7 +22,7 @@ My background focuses on the design, execution, and documentation of software te
 
 '
 
-'
+#
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  **| ABOUT ME |**     
 
@@ -34,10 +34,11 @@ Also
 - 📊🤖 Interest in software development, cybersecurity, digital projects, and artificial intelligence.
 
 
-'
+
+
+#
 
 '
-
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  **| TECHNICAL SKILLS |** 
 
 <p><img align="left"src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
