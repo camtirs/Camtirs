@@ -10,7 +10,7 @@ My background focuses on the design, execution, and documentation of software te
 #
 
 
-> **KEY FACTORS THAT INFLUENCE MY LEARNING IN THE FIELD OF SOFTWARE & APPS QUALITY ASSURANCE. **
+> **KEY FACTORS THAT INFLUENCE MY LEARNING IN THE FIELD OF SOFTWARE & APPS QUALITY ASSURANCE.**
 
 - 🔍 Training in functional, exploratory, and regression testing.
 - 🧪 Academic experience in designing and executing test cases.
