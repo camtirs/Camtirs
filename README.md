@@ -21,7 +21,7 @@ My background focuses on the design, execution, and documentation of software te
 
 > ***ABOUT ME***
 
-Apasionado por la tecnología, el aprendizaje continuo, la resolución de problemas y la innovación. Creo que la calidad del software no es solamente encontrar errores, sino construir mejores experiencias digitales.
+I'm passionate about technology, lifelong learning, problem-solving, and innovation. I believe that software quality isn't just about finding bugs, but about building better digital experiences..
 
 Also
 
