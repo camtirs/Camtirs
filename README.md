@@ -1,4 +1,5 @@
-<h1 align="center">Hello! , I'm Camilo Tiuzo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hello!,  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Camilo Tiuzo </h1>  
+
 
 
 
@@ -6,7 +7,7 @@ I am a Quality Assurance Engineer in training at TripleTen Tech Academy; my work
 
 My background focuses on the design, execution, and documentation of software tests, identifying defects and contributing to the development of reliable, functional, and high-quality digital products.  
 
-
+-
 
 
 > **KEY FACTORS THAT INFLUENCE MY LEARNING IN THE FIELD OF SOFTWARE & APPS QUALITY ASSURANCE.**
@@ -28,3 +29,9 @@ Also
 
 - 🌱 I’m currently learning React Dev.
 - 📊 Interest in software development, cybersecurity, digital projects, and artificial intelligence.
+
+#
+
+
+>**TECHNICAL SKILLS** 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
