@@ -40,7 +40,7 @@ Also
 
 
 '
-> Urban Scooter website and mobile.
+> 𝑼𝒓𝒃𝒂𝒏 𝑺𝒄𝒐𝒐𝒕𝒆𝒓 𝒘𝒆𝒃𝒔𝒊𝒕𝒆 𝒂𝒏𝒅 𝒎𝒐𝒃𝒊𝒍𝒆..
 
 - includes functional, usability, and integration testing for the Urban Scooter website and mobile app in Excel format. It involves endpoint validation, requirements analysis, test case design, and the generation of error reports to ensure the quality of the electric scooter rental service.
 
