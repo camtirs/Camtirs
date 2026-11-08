@@ -82,5 +82,14 @@ Link -> https://github.com/camtirs/MobileAndWeb-UrbanScooter-Project
 ![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
 
+<p align="center">
+
+<a href="https://github.com/FahimFBA/github-readme-twitter">
+<img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=Fahim_FBA&layout=wide&show_reply=off&show_retweet=off" />
+</a>
+
+</p>
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A67EE&height=120&section=footer"/>
