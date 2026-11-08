@@ -38,10 +38,16 @@ Also
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  **|  NOTABLE PROJECTS |** 
 
-(https://github.com/camtirs/MobileAndWeb-UrbanScooter-Project)
+
+'
+> Urban Scooter website and mobile.
 
 - includes functional, usability, and integration testing for the Urban Scooter website and mobile app in Excel format. It involves endpoint validation, requirements analysis, test case design, and the generation of error reports to ensure the quality of the electric scooter rental service.
 
+
+    Link -> https://github.com/camtirs/MobileAndWeb-UrbanScooter-Project
+
+  
 #
 
 '
