@@ -42,11 +42,11 @@ Also
 
 '
 
--𝑼𝒓𝒃𝒂𝒏 𝑮𝒓𝒐𝒄𝒆𝒓𝒔 𝑨𝑷𝑰 𝑻𝒆𝒔𝒕𝒔.
+- 𝑼𝒓𝒃𝒂𝒏 𝑮𝒓𝒐𝒄𝒆𝒓𝒔 𝑨𝑷𝑰 𝑻𝒆𝒔𝒕𝒔.
 Automated testing for the Urban Grocers API to create users and kits, positive/negative tests, and bug reporting.
 Link ->https://github.com/camtirs/Automated-Testing-in-Python.-Project-Urban-Grocers-Q.A.
 
--𝑼𝒓𝒃𝒂𝒏 𝑹𝒐𝒖𝒕𝒆𝒔 𝑨𝒑𝒑.
+- 𝑼𝒓𝒃𝒂𝒏 𝑹𝒐𝒖𝒕𝒆𝒔 𝑨𝒑𝒑.
 
 Automated and functional tests to validate routes, equivalence classes, and error coverage in an Urban Routes app.
 Link -> https://github.com/camtirs/Web-App-Test-Automation-with-Selenium-PyCharm.-Project-Urban-Routes-Q.A.
