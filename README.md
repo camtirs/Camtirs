@@ -83,3 +83,4 @@ Link -> https://github.com/camtirs/MobileAndWeb-UrbanScooter-Project
 ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
 
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A67EE&height=120&section=footer"/>
