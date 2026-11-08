@@ -36,7 +36,15 @@ Also
 
 #
 
+
+
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  **|  NOTABLE PROJECTS |** 
+
+'
+
+>  𝑼𝒓𝒃𝒂𝒏 𝑮𝒓𝒐𝒄𝒆𝒓𝒔 𝑨𝑷𝑰 𝑻𝒆𝒔𝒕𝒔.
+Automated testing for the Urban Grocers API to create users and kits, positive/negative tests, and bug reporting.
+
 
 > 𝑼𝒓𝒃𝒂𝒏 𝑹𝒐𝒖𝒕𝒆𝒔 𝑨𝒑𝒑.
 
