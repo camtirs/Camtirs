@@ -34,7 +34,7 @@ Also
 
 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  **|  Notable Projects |** 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  **|  NOTABLE PROJECTS |** 
 
 #
 
