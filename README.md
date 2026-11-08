@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>***𝖯𝗈𝗋𝗍𝖿𝗈𝗅𝗂𝗈***
+<img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>***Ｐｏｒｔｆｏｌｉｏ***
 <h1 align="center">Hello!, I'm  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="44">  Camilo Tiuzo </h1> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 I am a Quality Assurance Engineer in training at TripleTen Tech Academy; my work focuses on ensuring the quality, reliability, and functionality of applications through testing methodologies and technological tools.My professional goal is to develop my skills as a QA engineer, strengthen my knowledge of test automation, and transition into software engineering.
