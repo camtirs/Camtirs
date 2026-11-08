@@ -6,6 +6,7 @@ I am a Quality Assurance Engineer in training at TripleTen Tech Academy; my work
 My background focuses on the design, execution, and documentation of software tests, identifying defects and contributing to the development of reliable, functional, and high-quality digital products. 
 
 '
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  **|  Notable Projects |** 
 
 
 
