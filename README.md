@@ -56,6 +56,9 @@ Link -> https://github.com/camtirs/Web-App-Test-Automation-with-Selenium-PyCharm
 - 𝗨𝗿𝗯𝗮𝗻 𝗦𝗰𝗼𝗼𝘁𝗲𝗿 𝗪𝗲𝗯 𝘀𝗶𝘁𝗲 & 𝗠𝗼𝗯𝗶𝗹𝗲: includes functional, usability, and integration testing for the Urban Scooter website and mobile app in Excel format. It involves endpoint validation, requirements analysis, test case design, and the generation of error reports to ensure the quality of the electric scooter rental service.
 Link -> https://github.com/camtirs/MobileAndWeb-UrbanScooter-Project
 
+
+#
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  **| CONTACT FOR COMUNICATIONS |** 
   
 #
 
@@ -82,8 +85,7 @@ Link -> https://github.com/camtirs/MobileAndWeb-UrbanScooter-Project
 ![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
 
---
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  **| CONTACT FOR COMUNICATIONS |** 
+
+
 	
----
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A67EE&height=120&section=footer"/>
