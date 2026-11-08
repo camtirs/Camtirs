@@ -13,7 +13,7 @@ My background focuses on the design, execution, and documentation of software te
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  **|  KEY FACTORS THAT INFLUENCE MY LEARNING IN THE FIELD OF SOFTWARE & APPS QUALITY ASSURANCE |** 
 
 - 🔍 Training in functional, exploratory, and regression testing.
-  - 🧪 Academic experience in designing and executing test cases.
+- 🧪 Academic experience in designing and executing test cases.
 - 🔌 API testing using Postman.
 - 🐍 Test automation with Python, Selenium, and Pytest.
 - 🐞 Bug management, documentation, and tracking using Jira.
