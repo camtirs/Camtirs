@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A687EE&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A67EE&height=120&section=header"/>
 
 <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>**𝑃𝑂𝑅𝑇𝐹𝑂𝐿𝐼𝑂**
 <h1 align="center">H𝑒𝑙𝑙𝑜!  i'm  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="44">  C𝑎m𝑖𝑙𝑜 T𝑖𝑢z𝑜 </h1> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
