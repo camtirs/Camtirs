@@ -32,7 +32,9 @@ Also
 - 🌱 I’m currently learning React Dev.
 - 📊🤖 Interest in software development, cybersecurity, digital projects, and artificial intelligence.
 
+'
 
+#
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  **|  NOTABLE PROJECTS |** 
 
