@@ -61,6 +61,7 @@ Link -> https://github.com/camtirs/MobileAndWeb-UrbanScooter-Project
 
 '
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  **| CONTACT |**
+'
 
 - ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) @tiuzo
 - ![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white) camilotiuzor@gmail.com
