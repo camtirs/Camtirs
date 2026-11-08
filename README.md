@@ -82,7 +82,8 @@ Link -> https://github.com/camtirs/MobileAndWeb-UrbanScooter-Project
 ![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
 
-
+--
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  **| CONTACT FOR COMUNICATIONS |** 
 	
 ---
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A67EE&height=120&section=footer"/>
