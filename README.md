@@ -38,9 +38,15 @@ Also
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  **|  NOTABLE PROJECTS |** 
 
+> 𝑼𝒓𝒃𝒂𝒏 𝑹𝒐𝒖𝒕𝒆𝒔 𝑨𝒑𝒑.
 
-'
-> 𝑼𝒓𝒃𝒂𝒏 𝑺𝒄𝒐𝒐𝒕𝒆𝒓 𝒘𝒆𝒃𝒔𝒊𝒕𝒆 𝒂𝒏𝒅 𝒎𝒐𝒃𝒊𝒍𝒆..
+- Automated and functional tests to validate routes, equivalence classes, and error coverage in an Urban Routes app.
+
+   Link -> https://github.com/camtirs/Web-App-Test-Automation-with-Selenium-PyCharm.-Project-Urban-Routes-Q.A.
+
+
+
+> 𝑼𝒓𝒃𝒂𝒏 𝑺𝒄𝒐𝒐𝒕𝒆𝒓 𝒘𝒆𝒃𝒔𝒊𝒕𝒆 𝒂𝒏𝒅 𝒎𝒐𝒃𝒊𝒍𝒆.
 
 - includes functional, usability, and integration testing for the Urban Scooter website and mobile app in Excel format. It involves endpoint validation, requirements analysis, test case design, and the generation of error reports to ensure the quality of the electric scooter rental service.
 
