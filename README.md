@@ -43,12 +43,15 @@ Also
 '
 
 - 𝑼𝒓𝒃𝒂𝒏 𝑮𝒓𝒐𝒄𝒆𝒓𝒔 𝑨𝑷𝑰 𝑻𝒆𝒔𝒕𝒔.
+
 Automated testing for the Urban Grocers API to create users and kits, positive/negative tests, and bug reporting.
+
 Link ->https://github.com/camtirs/Automated-Testing-in-Python.-Project-Urban-Grocers-Q.A.
 
 - 𝑼𝒓𝒃𝒂𝒏 𝑹𝒐𝒖𝒕𝒆𝒔 𝑨𝒑𝒑.
 
 Automated and functional tests to validate routes, equivalence classes, and error coverage in an Urban Routes app.
+
 Link -> https://github.com/camtirs/Web-App-Test-Automation-with-Selenium-PyCharm.-Project-Urban-Routes-Q.A.
 
 
@@ -56,6 +59,7 @@ Link -> https://github.com/camtirs/Web-App-Test-Automation-with-Selenium-PyCharm
 - 𝑼𝒓𝒃𝒂𝒏 𝑺𝒄𝒐𝒐𝒕𝒆𝒓 𝒘𝒆𝒃𝒔𝒊𝒕𝒆 𝒂𝒏𝒅 𝒎𝒐𝒃𝒊𝒍𝒆.
 
 includes functional, usability, and integration testing for the Urban Scooter website and mobile app in Excel format. It involves endpoint validation, requirements analysis, test case design, and the generation of error reports to ensure the quality of the electric scooter rental service.
+
 Link -> https://github.com/camtirs/MobileAndWeb-UrbanScooter-Project
 
   
