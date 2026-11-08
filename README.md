@@ -82,14 +82,28 @@ Link -> https://github.com/camtirs/MobileAndWeb-UrbanScooter-Project
 ![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
 
-<p align="center">
-
-<a href="https://github.com/FahimFBA/github-readme-twitter">
-<img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=Fahim_FBA&layout=wide&show_reply=off&show_retweet=off" />
-</a>
-
-</p>
+--
+<details>
+	 <summary> :snowflake: Do you want to check my profile of CP related various Online Judges? Click here! 📈:</summary>
+<div align="center">
 
 
-
+:star: [Codeforces](https://codeforces.com/profile/FahimFBA) <br>
+:star: [Toph](https://toph.co/u/FahimFBA) <br>
+:star: [HackerRank](https://www.hackerrank.com/FahimFBA) <br>
+:star: [HackerEarth](https://www.hackerearth.com/@md.fahim3) <br>
+:star: [URI](https://www.urionlinejudge.com.br/judge/en/profile/436965) <br>
+:star: [Dimik OJ](https://dimikoj.com/) <br>
+:star: [Codechef](https://www.codechef.com/users/fahimfba)  <br>
+:star: [CodingBat](https://codingbat.com/) <br>
+:star: [Leetcode](https://leetcode.com/FBA/) <br>
+:star: [SPOJ](https://www.spoj.com/users/fahimfba/) <br>
+:star: [LightOJ](http://lightoj.com/) <br>
+:star: [Timus](https://acm.timus.ru/author.aspx?id=302862)<br>
+:star: [AMT](http://orac.amt.edu.au/)<br>
+:star: [UVa](http://onlinejudge.org/)<br>
+:star: [CodeMarshal](https://algo.codemarshal.org/users/FahimFBA) <br>
+<i>Many more are coming soon...</i> :clap: </div> </details>
+	
+---
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A67EE&height=120&section=footer"/>
